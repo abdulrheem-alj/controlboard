@@ -12,7 +12,7 @@ Control
 
 صفحة ويب
 
-![alt text](https://github.com/abdulrheem-alj/controlboard/blob/main/imeag/control.JPG 50X50)
+![alt text](https://github.com/abdulrheem-alj/controlboard/blob/main/imeag/control.JPG 50*50)
 
 جدول قاعدة البيانات
 mysql
