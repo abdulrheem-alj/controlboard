@@ -11,11 +11,11 @@ Control
 3-	التعرف على كيفية تصميم قاعدة بيانات.
 
 صفحة ويب
-![](https://github.com/abdulrheem-alj/controlboard/imeag/control.JPG)
+![alt text](https://github.com/abdulrheem-alj/controlboard/blob/main/imeag/control.JPG)
 
 جدول قاعدة البيانات
 mysql
-![](https://github.com/abdulrheem-alj/controlboard/imeag/mysql.JPG) 
+![alt text](https://github.com/abdulrheem-alj/controlboard/blob/main/imeag/mysql.JPG) 
 
 شكرا جزيلا
 عبدالرحيم
